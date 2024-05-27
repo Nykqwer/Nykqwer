@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nykqwer
 - 👀 I’m interested in prompt Engr
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on myself improvement
+- 📫 How to reach me nykolopez25@gmail.com
 - 😄 Pronouns: go/jo
 - ⚡ Fun fact: idk
 
