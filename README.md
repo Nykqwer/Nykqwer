@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nykqwer
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning Node,express,react
-- 💞️ I’m looking to collaborate on improving myself.
+- 🌱 I’m currently learning react,next.js
+- 💞️ I’m seeking collaboration opportunities to help me grow and improve..
 - 😄 Pronouns: go/jo
 - ⚡ Fun fact: Nah I'd Win
 
